@@ -34,8 +34,3 @@ Exploring the intersection of engineering, artificial intelligence, and robotics
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jessica%20Gutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jessica-gutierrezb)
 [![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tique.yessicaadriana@gmail.com)
 
----
-
-<p align="center">
-  <i>"Engineering is the art of making possible what physics allows."</i>
-</p>
